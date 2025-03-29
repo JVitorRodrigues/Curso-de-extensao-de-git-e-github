@@ -1,9 +1,10 @@
-# ola mundo
- Meu primeiro projeto com versionamento Git e GitHub.  
- Feito em um curso de extenção na Universidade UNFSA.
-**Proferssor**: Andeson  
-**Nome**: João Vitor Rodrigues.
-**Instragram:** joao_vitor_rs.  
+![0_CpxR8zt1z6vZDorB](https://github.com/user-attachments/assets/a731e2df-8415-495a-9cdb-74d04f3d5650)
+
+ **Ola, me chamo João Vitor Rodrigues esse é meu primeiro projeto com versionamento Git e GitHub.  
+ Feito em um curso de extenção na Universidade UNFSA com o Profersso, Anderson.**  
+ 
+**Informações para contato:**  
+**Intagram:**joao_vitor_rs.  
 **Contato:** (86) 9 9802-7136.  
 
    📌 **O que estou aprendendo?**
