@@ -1,6 +1,4 @@
-![0_CpxR8zt1z6vZDorB](https://github.com/user-attachments/assets/a731e2df-8415-495a-9cdb-74d04f3d5650)
-
- **Ola, me chamo João Vitor Rodrigues esse é meu primeiro projeto com versionamento Git e GitHub.  
+ **Esse é meu primeiro projeto com versionamento Git e GitHub.  
  Feito em um curso de extenção na Universidade UNFSA com o Profersso, Anderson.**  
  
 **Informações para contato:**  
@@ -24,5 +22,6 @@ Contato: (86) 9 9802-7136.
 
 📂 Estrutura do Repositório  
 📦 Meu-Projeto-Git  
-├── 📁 docs           # Documentação e anotações  
+├── 📁 docs           # Documentação e anotações
+  
  
