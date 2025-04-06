@@ -4,8 +4,8 @@
  Feito em um curso de extenção na Universidade UNFSA com o Profersso, Anderson.**  
  
 **Informações para contato:**  
-**Intagram:**joao_vitor_rs.  
-**Contato:** (86) 9 9802-7136.  
+Intagram: joao_vitor_rs.  
+Contato: (86) 9 9802-7136.  
 
    📌 **O que estou aprendendo?**
 
